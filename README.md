@@ -8,7 +8,7 @@ The detailed information can be found in the comments of the python script.
 The video files are the results of our simulations, including the WRF results (meteorological parameters)
 and CMAQ results (chemical species).
 
-* The spatial distribution of the sea level pressure (hPa, contour lines) and surface temperature (\circC, contour fills)
+* The spatial distribution of the sea level pressure (hPa, contour lines) and surface temperature ($^{\circ}$C, contour fills)
 * The spatial distribution of the streamline of surface wind (m/s) 
 * The spatial distribution of the surface ozone (ppbv)
 * The spatial distribution of the surface BrO (pptv)
