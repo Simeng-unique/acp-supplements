@@ -13,6 +13,7 @@ and CMAQ results (chemical species).
 * The spatial distribution of the surface ozone (ppbv)
 * The spatial distribution of the surface BrO (pptv)
 * The spatial distribution of the chemistry contribution to the surface ozone (ppbv)
+* The spatial distribution of the emission rate of sea-salt aerosols (g/s)
 
 If you have any questions or want to gain more information, 
 Please reach Simeng: ***simeng.li@nuist.edu.cn*** or ***simeng\_li@qq.com*** .
