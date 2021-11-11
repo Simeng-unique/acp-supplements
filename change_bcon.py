@@ -4,7 +4,7 @@
 # https://www.camx.com/download/support-software/
 #  
 # This python script is used to change the trpospheric ozone value over the sea. 
-# The computationl domain can be found in *namelist.wps* .
+# The computational domain can be found in *namelist.wps* .
 # 
 
 import xarray as xr
