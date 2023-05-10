@@ -16,4 +16,4 @@ and CMAQ results (chemical species).
 * The spatial distribution of the emission rate of sea-salt aerosols (g/s)
 
 If you have any questions or want to gain more information, 
-Please reach Simeng: ***simeng.li@nuist.edu.cn*** or ***simeng\_li@qq.com*** .
+Please reach Simeng: ***s.li@cml.leidenuniv.nl*** or ***simeng.li.unique@gmail.com*** .
