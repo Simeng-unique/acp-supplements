@@ -21,5 +21,5 @@ Please reach Simeng: ***s.li@cml.leidenuniv.nl*** or ***simeng.li.unique@gmail.c
 
 - Update 10 May, 2023 
 
-Since Simeng is no longer have the access of those files, if you have any further questions, 
+Since Simeng no longer has the access of those files, if you have any further questions, 
 please reach Le Cao: ***le.cao@nuist.edu.cn*** .
