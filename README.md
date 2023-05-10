@@ -1,5 +1,5 @@
 # acp-supplements
-This is for Simeng's publication. 
+This is for Simeng's publication: https://doi.org/10.5194/acp-23-3363-2023
 
 # Files
 *change_bcon.py* was used to change the boundary conditions of the outputs of CAM-Chem. 
